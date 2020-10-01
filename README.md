@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+![image](https://github.com/dgthanhduy/dgthanhduy/blob/master/1.gif)
+![image](https://github.com/dgthanhduy/dgthanhduy/blob/master/1.gif)
 <!--
 **dgthanhduy/dgthanhduy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
